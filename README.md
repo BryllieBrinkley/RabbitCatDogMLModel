@@ -1,8 +1,8 @@
 ## RabbitCatDogMLModel
 
-A trained machine learning model (trained using Apple's CreateML API)
-Use the .mlmodel file to integrate the model into your own Xcode project. 
-99% accurate in identifying pictures of Cats, Dogs, and Rabbits.
+* A trained machine learning model (trained using Apple's CreateML API)
+* Use the .mlmodel file to integrate the model into your own Xcode project. 
+* 99% accurate in identifying pictures of Cats, Dogs, and Rabbits.
 
 Through developing this app, I gained and solidified knowledge in various learning topics, including...
 
